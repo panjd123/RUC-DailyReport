@@ -1,4 +1,4 @@
-# RUC-Registrant
+# RUCDailyReport
 
 为了帮助广大经常忘填疫情防控通的RUCer，selenium 实现的 RUC 疫情防控通电脑端自动登记脚本出现在了 github 上（雾
 
