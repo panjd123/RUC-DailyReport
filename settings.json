@@ -1,0 +1,10 @@
+{
+    "url": "https://m.ruc.edu.cn/uc/wap/login?redirect=https%3A%2F%2Fm.ruc.edu.cn%2Fsite%2FapplicationSquare%2Findex%3Fsid%3D2",
+    "student_ID": 1234123412,
+    "password": "11223344",
+    "timeout": 10,
+    "alert": true,
+    "alert_time": 3,
+    "delay_time": 0,
+    "silent": false
+}
