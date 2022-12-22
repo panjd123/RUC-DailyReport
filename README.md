@@ -1,6 +1,6 @@
 # RUCDailyReport
 
-为了帮助广大经常忘填疫情防控通的RUCer，selenium 实现的 RUC 疫情防控通电脑端自动登记脚本出现在了 github 上（雾
+本项目仅用于学习目的，本项目不能伪造位置
 
 ## 所用库
 
